@@ -19,7 +19,7 @@ function openIPInfo(ip: string) {
 export default definePlugin({
     name: "Lookup IP",
     description: "Click on an IP address from a message to get information about them.",
-    authors: [{ name: "You", id: 0n }],
+    authors: [{ name: "Request", id: 0n }],
 
     start() {
         clickHandler = (e: MouseEvent) => {
