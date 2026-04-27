@@ -3,7 +3,7 @@
 ## 🇬🇧 English
 
 ### Requirements
-- Vencord installed
+- Vencord installed (Not by VencordInstaller.exe !)
 - Discord desktop app
 
 ### Installation
